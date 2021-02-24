@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blog-material-ui/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/blog-material-ui/static/js/main.1e29aad2.chunk.js",
+    "main.js.map": "/blog-material-ui/static/js/main.1e29aad2.chunk.js.map",
+    "runtime-main.js": "/blog-material-ui/static/js/runtime-main.0705c74a.js",
+    "runtime-main.js.map": "/blog-material-ui/static/js/runtime-main.0705c74a.js.map",
+    "static/js/2.b221ad65.chunk.js": "/blog-material-ui/static/js/2.b221ad65.chunk.js",
+    "static/js/2.b221ad65.chunk.js.map": "/blog-material-ui/static/js/2.b221ad65.chunk.js.map",
+    "static/js/3.988310b4.chunk.js": "/blog-material-ui/static/js/3.988310b4.chunk.js",
+    "static/js/3.988310b4.chunk.js.map": "/blog-material-ui/static/js/3.988310b4.chunk.js.map",
+    "index.html": "/blog-material-ui/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/blog-material-ui/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b221ad65.chunk.js.LICENSE.txt": "/blog-material-ui/static/js/2.b221ad65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0705c74a.js",
+    "static/js/2.b221ad65.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1e29aad2.chunk.js"
+  ]
+}
